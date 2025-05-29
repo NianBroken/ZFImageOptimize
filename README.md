@@ -2,7 +2,7 @@
 
 |     脚本关闭时      |     脚本开启时      |
 | :-----------------: | :-----------------: |
-| ![](./images/1.png) | ![](./images/2.png) |
+| ![](https://github.com/NianBroken/ZFImageOptimize/raw/main/images/1.png) | ![](https://github.com/NianBroken/ZFImageOptimize/raw/main/images/2.png) |
 
 ## 简介
 

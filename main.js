@@ -10,7 +10,7 @@
 // @icon         https://www.zfsoft.com/img/zf.ico
 // @homepageURL  https://github.com/NianBroken/ZFImageOptimize
 // @supportURL   https://github.com/NianBroken/ZFImageOptimize/issues
-// @copyright    Copyright © 2025 NianBroken. All rights reserved.
+// @copyright    Copyright © 2024 NianBroken. All rights reserved.
 // @license      Apache-2.0 license
 // ==/UserScript==
 
