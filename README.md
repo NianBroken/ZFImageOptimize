@@ -42,11 +42,12 @@
 
 [Great-Firewall](https://nianbroken.github.io/Great-Firewall/) 好用的 VPN
 
-[Cubence](https://cubence.klaio.top/) AI API Code 中转
+[Ciii](https://ciii.klaio.top/) Codex 中转
 
 [Aizex](https://aizex.klaio.top/) ChatGPT 镜像站
 
 以上绝对都是性价比最高的。
+
 ## 其他
 
 欢迎提交 `Issues` 和 `Pull requests`
